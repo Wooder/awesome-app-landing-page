@@ -25,8 +25,8 @@ app:
 #
 # Marketing
 #
-##marketing_header: Does Awesome Stuff # Optional
-##marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: ... und das Baby schläft # Optional
+marketing_desc: Die bewährte Baby-Einschlafhilfe für ihr iPhone und iPad. Wählen Sie zwischen Föhn, Schlaflied (Guten Abend, Gute Nacht) und Wäschetrockner. 
 
 #
 # Social Links
@@ -76,8 +76,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: Föhn App - Baby Einschlafhilfe für ihr iPhone und iPad # Optional - Enter your site title
+description: Die Föhn App für das iPhone und iPad hilft ihrem Baby beim einschlafen. Jetzt kosten los laden.# Optional - Enter your site description
 
 #
 # Google Analytics
@@ -92,7 +92,7 @@ google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tra
 # Disclaimer:
 # This will default to using the author's affiliate token if left blank
 #
-itunes_affiliate_token: # Optional
+itunes_affiliate_token: 1001l7qy # Optional
 
 #
 # !! You don't need to change any of the configuration flags below !!
